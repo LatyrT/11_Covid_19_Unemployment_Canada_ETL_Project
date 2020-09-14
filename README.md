@@ -21,5 +21,5 @@ In this assignment, we used the ETL (Extract Transform Load) approach.
 * Load (SQL + pgAdmin)
 
 ## Results
-![GitHub Logo](11_Covid_19_Unemployment_Canada_ETL_Project/Images/System_Architecture.png)
+![GitHub Logo](System_Architecture.png)
 
