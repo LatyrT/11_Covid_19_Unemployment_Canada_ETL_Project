@@ -21,11 +21,7 @@ In this assignment, we used the ETL (Extract Transform Load) approach.
 * Load (SQL + pgAdmin)
 
 ## Participants
-* Anna Wrobel
 * Latyr Thiao
-* Leah Lindy
-* Lujane Abdelgadir
-* Prajakta Galvankar
 * Stephen Zhang
 
 ## Results
