@@ -1,0 +1,40 @@
+province,date,cumulative_recovered,category
+Alberta,2020-02-01,0,recovered
+Alberta,2020-03-01,0,recovered
+Alberta,2020-04-01,142,recovered
+BC,2020-02-01,0,recovered
+BC,2020-03-01,4,recovered
+BC,2020-04-01,606,recovered
+Manitoba,2020-02-01,0,recovered
+Manitoba,2020-03-01,0,recovered
+Manitoba,2020-04-01,4,recovered
+NL,2020-02-01,0,recovered
+NL,2020-03-01,0,recovered
+NL,2020-04-01,10,recovered
+NWT,2020-02-01,0,recovered
+NWT,2020-03-01,0,recovered
+NWT,2020-04-01,0,recovered
+New Brunswick,2020-02-01,0,recovered
+New Brunswick,2020-03-01,0,recovered
+New Brunswick,2020-04-01,14,recovered
+Nova Scotia,2020-02-01,0,recovered
+Nova Scotia,2020-03-01,0,recovered
+Nova Scotia,2020-04-01,11,recovered
+Nunavut,2020-02-01,0,recovered
+Nunavut,2020-03-01,0,recovered
+Nunavut,2020-04-01,0,recovered
+Ontario,2020-02-01,1,recovered
+Ontario,2020-03-01,3,recovered
+Ontario,2020-04-01,689,recovered
+PEI,2020-02-01,0,recovered
+PEI,2020-03-01,0,recovered
+PEI,2020-04-01,3,recovered
+Quebec,2020-02-01,0,recovered
+Quebec,2020-03-01,0,recovered
+Quebec,2020-04-01,155,recovered
+Saskatchewan,2020-02-01,0,recovered
+Saskatchewan,2020-03-01,0,recovered
+Saskatchewan,2020-04-01,30,recovered
+Yukon,2020-02-01,0,recovered
+Yukon,2020-03-01,0,recovered
+Yukon,2020-04-01,3,recovered

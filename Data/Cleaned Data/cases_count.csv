@@ -1,0 +1,8 @@
+sex,date,cases_count,category
+Females,2020-01-01,2,cases
+Females,2020-02-01,10,cases
+Females,2020-03-01,521,cases
+Males,2020-01-01,2,cases
+Males,2020-02-01,6,cases
+Males,2020-03-01,503,cases
+Not Reported,2020-03-01,11936,cases
