@@ -1,0 +1,7 @@
+sex,date,mortality_count,category
+Females,2020-03-01,21,mortality
+Males,2020-03-01,32,mortality
+Not Reported,2020-03-01,73,mortality
+Females,2020-04-01,8,mortality
+Males,2020-04-01,11,mortality
+Not Reported,2020-04-01,78,mortality
